@@ -85,8 +85,8 @@ author:
   bio              : "Project approved under the CNPq/MCTI/FNDCT n° 18/2021 – Faixa A ‘Grupos Emergentes’ grant by the Brazilian National Council for Scientific and Technological Development (CNPq) for the 2022-24 period"
   location         : "Brazil"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
