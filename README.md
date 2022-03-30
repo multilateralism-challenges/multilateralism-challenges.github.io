@@ -1,6 +1,6 @@
 This is my personal website. Here you will find my latest research papers and my CV.
 
-https://antonio-henrique-pires.github.io
+https://multilateralism-challenges.github.io
 
 Thanks to academicpages/academicpages.github.io
 
