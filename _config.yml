@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Multilateralism Challenges"
+title                    : "Multilateralism and Global Challenges"
 title_separator          : "-"
-name                     : &name "Multilateralism Challenges"
-description              : &description "personal description"
+name                     : &name "Multilateralism and Global Challenges"
+description              : &description "Project approved under the CNPq/MCTI/FNDCT n° 18/2021 – Faixa A ‘Grupos Emergentes’ grant by the Brazilian National Council for Scientific and Technological Development (CNPq) for the 2022-24 period"
 url                      : https://multilateralism-challenges.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "multilateralism-challenges/multilateralism-challenges.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Multilateralism Challenges"
+  name             : "Multilateralism and Global Challenges"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Project approved under the CNPq/MCTI/FNDCT n° 18/2021 – Faixa A ‘Grupos Emergentes’ grant by the Brazilian National Council for Scientific and Technological Development (CNPq) for the 2022-24 period"
   location         : "Brazil"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
