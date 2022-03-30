@@ -1,22 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Research Axes"
+    url: /axes/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Researchers and Institutions"
+    url: /researchers/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Related Publications"
+    url: /publications/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Related Events"
+    url: /events/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Related Websites"
+    url: /websites/
