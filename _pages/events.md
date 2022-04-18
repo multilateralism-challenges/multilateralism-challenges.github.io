@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Related Events"
+title: "Related Events and Links"
 permalink: /events/
 author_profile: true
 redirect_from:
@@ -9,4 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Coming soon.
+Events
+======
+ 
+Media
+======
+ 
+Website
+======
