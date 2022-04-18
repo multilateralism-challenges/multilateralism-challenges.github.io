@@ -10,7 +10,7 @@ redirect_from:
 
 Events
 ======
-
+Coming soon.
  
 Media
 ======
