@@ -15,7 +15,7 @@ Coming soon.
 Media
 ======
 
-"Insights into Energy Diplomacy and the UN: Data-Intensive Research from Brazilian Universities". Post at the UN Academic Impact website (aug. 2022) [Link](https://www.un.org/en/academic-impact/insights-energy-diplomacy-and-un-data-intensive-research-brazilian-universities)
+"Insights into Energy Diplomacy and the UN: Data-Intensive Research from Brazilian Universities". Post at the UN Academic Impact website (aug. 2022) [Link](https://www.un.org/en/academic-impact/insights-energy-diplomacy-and-un-data-intensive-research-brazilian-universities) (see also [here](https://www.ufpe.br/agencia/noticias/-/asset_publisher/dlhi8nsrz4hK/content/projetos-de-pesquisa-de-universidades-do-nordeste-sao-destaque-no-site-da-onu/40615))
 
 "Professores da UFPB participam de missão e acompanham implantação de sistema na ONU: 'troca de tecnologias'". Coverage by Jornal da Paraíba of academic visit by team of researchers from UFPB, UFPE and UNIFESP to the UN and to the Permanent Mission of Brazil in NY (jul. 2022) [Link](https://jornaldaparaiba.com.br/educacao/2022/07/22/professores-ufpb-missao-onu)
 
