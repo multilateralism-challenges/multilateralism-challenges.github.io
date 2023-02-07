@@ -10,7 +10,7 @@ redirect_from:
 
 Events
 ======
-Coming soon.
+Members of the Research Project "Multilateralism and Global Challenges" will present papers at the ISA 2023 Annual Convention (March 15th - 18th) in the panels "Multilateral Responses to Evolving Global Challenges and National Agendas" and "Text Data in the Study of International Organizations". [ISA 2023 Program](https://www.isanet.org/Conferences/ISA2023/Program)
  
 Media
 ======
@@ -24,3 +24,5 @@ Media
 Website
 ======
 [Observatório de Crises Internacionais](https://sites.ufpe.br/oci/)
+
+[Data Diplomacy Project](https://www.datadiplomacyproject.com)
