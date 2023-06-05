@@ -10,6 +10,7 @@ redirect_from:
 
 Events
 ======
+Members of the Research Project 'Multilateralism and Global Challenges" among the intervenants at the [8th Multistakeholder Forum on Science, Techonology and Innovation (STI Forum)](https://event.unitar.org/full-catalog/2023-sti-forum-official-side-event-data-diplomacy-making-international-diplomacy-more) promoted by the UN's Economic and Social Council on May 2nd in New York
 Members of the Research Project “Multilateralism and Global Challenges” will present papers at the ISA 2023 Annual Convention (March 15th - 18th) in the panels “Multilateral Responses to Evolving Global Challenges and National Agendas”, “Text Data in the Study of International Organizations”, and the roundtable “International Organizations and Research Methods”. [ISA 2023 Program](https://www.isanet.org/Conferences/ISA2023/Program)
  
 Media
