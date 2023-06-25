@@ -13,6 +13,8 @@ Andrei Polejack, Jenice Goveas, Sam Robinson, Tim Flink, Gabriela Ferreira, Wher
 
 Gabriela Ferreira, Janina Onuki, Relación bilateral Argentina-Brasil: ciencia y tecnologia. El futuro del Brasil. Política exterior y relación bilateral con la Argentina del próximo Gobierno brasileño, Buenos Aires: Red Argentina de Profesionales para la Política Exterior, September 2022, pp. 32-34. [Link](https://redappe.org.ar/dossier-brasil/)
 
+GENDER STI, Overview of Gender Inequalities in STI Agreements between EU and Third Countries, [Link](https://www.gender-sti.org/publications/), 2022
+
 Gabriela Ferreira, Lucas Damasceno, Amâncio Oliveira, Janina Onuki, Os efeitos dos programas de intercâmbio na educação superior na percepção das elites sobre o Brasil. Tempo do Mundo, nº 28, April 2022, pp. 245-268. [DOI](https://doi.org/10.38116/rtm28art9)
 
 Accepted for Publication
