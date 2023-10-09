@@ -7,6 +7,8 @@ author_profile: true
 
 Research Papers
 ======
+Lucas Feitosa, Rafael Mesquita, Access, Technology, and Transition: Mapping the Themes of the Debate on Energy at the United Nations General Assembly (2000-2020), Brazilian Political Science Review Volume 17, Number 3, e0002, 2023. [Link](https://brazilianpoliticalsciencereview.org/article/access-technology-and-transition-mapping-the-themes-of-the-debate-on-energy-at-the-united-nations-general-assembly-2000-2020/)
+
 Rafael Mesquita, Antonio Pires, What Are UN General Assembly Resolutions for? Four Views on Parliamentary Diplomacy, International Studies Review, Volume 25, Issue 1, March 2023, viac058, [DOI](https://doi.org/10.1093/isr/viac058)
 
 Andrei Polejack, Jenice Goveas, Sam Robinson, Tim Flink, Gabriela Ferreira, Where is the Global South in the Science Diplomacy Narrative?, Social Science Research Network, December 2022 Pre-print. [DOI](http://dx.doi.org/10.2139/ssrn.4278557)
