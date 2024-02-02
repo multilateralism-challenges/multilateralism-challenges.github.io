@@ -11,7 +11,7 @@ Miguel Mikelli Ribeiro, Antonio Pires. Mass atrocities, peace operations, and th
 
 Rafael Mesquita, Antonio Pires. The references of the nations: Introducing a corpus of UN General Assembly resolutions since 1946 and their citation network. Journal of Peace Research, 2023. [Link](https://doi.org/10.1093/isr/viac058)
 
-Rafael Mesquita. The Road Most Traveled by: Three Hypotheses about Influential Norms at the United Nations General Assembly Identified by Main Path Analysis. Global Governance, 2023.
+Rafael Mesquita. The Road Most Traveled by: Three Hypotheses about Influential Norms at the United Nations General Assembly Identified by Main Path Analysis. Global Governance, 2023. [Link](https://brill.com/view/journals/gg/29/4/article-p536_6.xml)
 
 Lucas Feitosa, Rafael Mesquita, Access, Technology, and Transition: Mapping the Themes of the Debate on Energy at the United Nations General Assembly (2000-2020), Brazilian Political Science Review Volume 17, Number 3, e0002, 2023. [Link](https://brazilianpoliticalsciencereview.org/article/access-technology-and-transition-mapping-the-themes-of-the-debate-on-energy-at-the-united-nations-general-assembly-2000-2020/)
 
