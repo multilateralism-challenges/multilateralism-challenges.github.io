@@ -7,7 +7,7 @@ author_profile: true
 
 Research Papers
 ======
-Mesquita, Rafael. The only living guerrillero in New York: Cuba and the brokerage power of a resilient revisionist state. Review of International Organizations, 2024. [Link](https://doi.org/10.1007/s11558-024-09532-9)
+Rafael Mesquita. The only living guerrillero in New York: Cuba and the brokerage power of a resilient revisionist state. Review of International Organizations, 2024. [Link](https://doi.org/10.1007/s11558-024-09532-9)
 
 Miguel Mikelli Ribeiro, Antonio Pires. Mass atrocities, peace operations, and the UNSC: How responsive is the UN Security Council to atrocity events through peacekeeping mandates?. International Peacekeeping, 2023. [Link](https://doi.org/10.1080/13533312.2023.2286552)
 
