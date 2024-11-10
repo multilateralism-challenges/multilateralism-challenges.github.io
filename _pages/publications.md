@@ -7,6 +7,8 @@ author_profile: true
 
 Research Papers
 ======
+Marcelo de Almeida Medeiros. Multilateralism: Quo Vadis?. Braz. political sci. rev., v. 19, n. 2, e0001. 2024. [Link](https://brazilianpoliticalsciencereview.org/article/multilateralism-quo-vadis/).
+
 Miguel Mikelli Ribeiro. Desafios normativos da Responsabilidade de Proteger: uma abordagem teórica da institucionalização à contestação*. Estudios Internacionales, 56(208), 127–156. 2024. [Link](https://revistaei.uchile.cl/index.php/REI/article/view/70656/77199).
 
 Rafael Mesquita, Antonio Pires. Jurisprudence in hard and soft law output of international organizations: a network analysis of the use of precedent in UN Security Council and general assembly resolutions. Artificial Intelligence Law. 2024. [Link](https://link.springer.com/article/10.1007/s10506-024-09416-8).
