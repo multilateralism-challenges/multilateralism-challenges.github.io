@@ -19,6 +19,8 @@ Events
 Media
 ======
 
+* "Qu’est-ce qui rend une résolution importante ? Contributions de l’analyse des réseaux sociaux à l'Assemblée générale des Nations unies". Post at the "Observatoire Multilatéralisme et Organisations Internationales" (Groupement de Recherche sur l'Action Multilatérale, GRAM).  (Oct. 2024). [Link](https://observatoire-multilateralisme.fr/publications/quest-ce-qui-rend-une-resolution-importante/)
+
 * "Researchers from the Northeast of Brazil present at the UN technologies that combine data science and diplomacy". News story by the UFPE Press Agency. (May 2023) [Link](https://www.ufpe.br/agencia/noticias/-/asset_publisher/dlhi8nsrz4hK/content/pesquisadores-do-nordeste-apresentam-na-onu-tecnologias-que-combinam-ciencia-de-dados-e-diplomacia/40615)
 
 * "Insights into Energy Diplomacy and the UN: Data-Intensive Research from Brazilian Universities". Post at the UN Academic Impact website (aug. 2022) [Link](https://www.un.org/en/academic-impact/insights-energy-diplomacy-and-un-data-intensive-research-brazilian-universities) (see also [here](https://www.ufpe.br/agencia/noticias/-/asset_publisher/dlhi8nsrz4hK/content/projetos-de-pesquisa-de-universidades-do-nordeste-sao-destaque-no-site-da-onu/40615))
