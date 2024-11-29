@@ -7,6 +7,8 @@ author_profile: true
 
 Research Papers
 ======
+Alexsandro Eugenio Pereira. The World Bank Inspection Panel from an institutionalist perspective. IN: Antje Vetterlein; Tobias Schmidtke (Eds.). The Elgar Companion to the World Bank. Edward Elgar Publishing. 2024. [Link](https://doi.org/10.4337/9781802204780.00018)
+
 Marcelo de Almeida Medeiros. Multilateralism: Quo Vadis?. Braz. political sci. rev., v. 19, n. 2, e0001. 2024. [Link](https://brazilianpoliticalsciencereview.org/article/multilateralism-quo-vadis/).
 
 Miguel Mikelli Ribeiro. Desafios normativos da Responsabilidade de Proteger: uma abordagem teórica da institucionalização à contestação*. Estudios Internacionales, 56(208), 127–156. 2024. [Link](https://revistaei.uchile.cl/index.php/REI/article/view/70656/77199).
