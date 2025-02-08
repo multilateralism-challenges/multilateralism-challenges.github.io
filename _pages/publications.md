@@ -7,6 +7,8 @@ author_profile: true
 
 Research Papers
 ======
+Rafael Mesquita. What do I need to say to get your signature? Adding draft resolution text to the UN General Assembly Sponsorship Dataset. Research & Politics, 11(4). 2024. [Link](https://doi.org/10.1177/20531680241310396).
+
 Alexsandro Eugenio Pereira. The World Bank Inspection Panel from an institutionalist perspective. IN: Antje Vetterlein; Tobias Schmidtke (Eds.). The Elgar Companion to the World Bank. Edward Elgar Publishing. 2024. [Link](https://doi.org/10.4337/9781802204780.00018)
 
 Marcelo de Almeida Medeiros. Multilateralism: Quo Vadis?. Braz. political sci. rev., v. 19, n. 2, e0001. 2024. [Link](https://brazilianpoliticalsciencereview.org/article/multilateralism-quo-vadis/).
